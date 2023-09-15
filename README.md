@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mamun-x
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning React and Nodejs
+- 💞️ I’m looking to collaborate on open source project
+- 📫 How to reach me mamamun1999@gmail.com
